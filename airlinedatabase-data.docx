@@ -1,0 +1,118 @@
+ 
+Customer Flights Form									
+Customer ID	Customer Name	Customer Phone	Balance	Charter Trip	Charter Date	Destination	Distance	Hours Flown	Waiting Hours	Fuel Gallons
+10010	Alfred Ramas	615-844-2573	$0.00	10012	08-Feb-04	MOB	884.00	4.8	4.2	215.1
+10011	Leona Dunne	713-894-1238	$0.00	10001	05-Feb-04	ATL	936.00	5.1	2.2	354.1
+10011	Leona Dunne	713-894-1238	$0.00	10005	06-Feb-04	ATL	1,023.00	5.7	3.5	397.7
+10011	Leona Dunne	713-894-1238	$0.00	10013	08-Feb-04	TYS	644.00	3.9	4.5	174.3
+10011	Leona Dunne	713-894-1238	$0.00	10016	09-Feb-04	MQY	312.00	1.5	0	67.2
+10012	Kathy Smith	615-894-2285	$896.54	10007	06-Feb-04	GNV	1,574.00	7.9	0	348.4
+10012	Kathy Smith	615-894-2285	$896.54	10011	07-Feb-04	BNA	352.00	1.9	5.3	66.4
+10013	Paul Olowski	615-894-2180	$0.00	 	 	 	 	 	 	 
+10014	Myron Orlando	615-222-1672	$673.21	10003	05-Feb-04	GNV	1,574.00	7.8	0	339.8
+10014	Myron Orlando	615-222-1672	$673.21	10008	07-Feb-04	TYS	644.00	4.1	0	140.6
+10014	Myron Orlando	615-222-1672	$673.21	10017	10-Feb-04	STL	508.00	3.1	0	105.5
+10015	Amy O'Brian	713-442-3381	$0.00	 	 	 	 	 	 	 
+10016	James Brown	615-297-1228	$0.00	10002	05-Feb-04	BNA	320.00	1.6	0	72.6
+10016	James Brown	615-297-1228	$0.00	10010	07-Feb-04	ATL	998.00	6.2	3.2	279.7
+10016	James Brown	615-297-1228	$0.00	10015	09-Feb-04	GNV	1,645.00	6.7	0	459.5
+10017	George Williams	615-290-2556	$0.00	10006	06-Feb-04	STL	472.00	2.6	5.2	117.1
+10017	George Williams	615-290-2556	$0.00	10009	07-Feb-04	GNV	1,574.00	6.6	23.4	459.9
+10017	George Williams	615-290-2556	$0.00	10014	09-Feb-04	ATL	936.00	6.1	2.1	302.6
+10017	George Williams	615-290-2556	$0.00	10018	10-Feb-04	TYS	644.00	3.8	4.5	167.4
+10018	Anne Farriss	713-382-7185	$0.00	 	 	 	 	 	 	 
+10019	Olette Smith	615-297-3809	$453.98	10004	06-Feb-04	STL	472.00	2.9	4.9	97.2
+
+ 
+
+
+Charter Crew Form					
+Employee Number	Employee Name	Charter Trip	Charter Date	Destination ID	Destination	CREW_JOB
+100	Mr. George Kolmycz	 	 	 	 	 
+101	Ms. Rhonda Lewis	10002	05-Feb-04	BNA	Nashville	Pilot
+101	Ms. Rhonda Lewis	10005	06-Feb-04	ATL	Atlanta	Pilot
+101	Ms. Rhonda Lewis	10011	07-Feb-04	BNA	Nashville	Pilot
+101	Ms. Rhonda Lewis	10012	08-Feb-04	MOB	Mobile	Pilot
+101	Ms. Rhonda Lewis	10015	09-Feb-04	GNV	Gainesville	Copilot
+101	Ms. Rhonda Lewis	10017	10-Feb-04	STL	St. Louis	Pilot
+102	Mr. Rhett VanDam	 	 	 	 	 
+103	Ms. Anne Jones	 	 	 	 	 
+104	Mr. John Lange	10001	05-Feb-04	ATL	Atlanta	Pilot
+104	Mr. John Lange	10007	06-Feb-04	GNV	Gainesville	Pilot
+104	Mr. John Lange	10011	07-Feb-04	BNA	Nashville	Copilot
+104	Mr. John Lange	10015	09-Feb-04	GNV	Gainesville	Pilot
+104	Mr. John Lange	10018	10-Feb-04	TYS	Knoxville	Copilot
+105	Mr. Robert Williams	10003	05-Feb-04	GNV	Gainesville	Pilot
+105	Mr. Robert Williams	10007	06-Feb-04	GNV	Gainesville	Copilot
+105	Mr. Robert Williams	10009	07-Feb-04	GNV	Gainesville	Pilot
+105	Mr. Robert Williams	10013	08-Feb-04	TYS	Knoxville	Pilot
+105	Mr. Robert Williams	10016	09-Feb-04	MQV	Mostaganem	Copilot
+105	Mr. Robert Williams	10018	10-Feb-04	TYS	Knoxville	Pilot
+106	Mrs. Jeanine Duzak	10004	06-Feb-04	STL	St. Louis	Pilot
+106	Mrs. Jeanine Duzak	10008	07-Feb-04	TYS	Knoxville	Pilot
+106	Mrs. Jeanine Duzak	10014	09-Feb-04	ATL	Atlanta	Pilot
+107	Mr. Jorge Diante	 	 	 	 	 
+108	Mr. Paul Wiesenbach	10010	07-Feb-04	ATL	Atlanta	Pilot
+109	Ms. Elizabeth Travis	10003	05-Feb-04	GNV	Gainesville	Copilot
+109	Ms. Elizabeth Travis	10006	06-Feb-04	STL	St. Louis	Pilot
+109	Ms. Elizabeth Travis	10016	09-Feb-04	MQV	Mostaganem	Pilot
+110	Mrs. Leighla Genkazi	 	 	 	 	 
+
+ 
+Employees Earned Ratings Form							
+Employee Number	Employee Name	PILOT LICENSE	Pilot License	Med type 	Medical Type	Medical examination date	RTG CODE	Rating Name	Earned Rating Date
+101	Ms. Rhonda Lewis	ATP	Airline Transport Pilot	1	First Class Medical Exam	20-Jan-04	CFI	Certified Flight Instructor	18-Feb-96
+101	Ms. Rhonda Lewis	ATP	Airline Transport Pilot	1	First Class Medical Exam	20-Jan-04	CFII	Certified Flight Instructor, Instrument	15-Dec-98
+101	Ms. Rhonda Lewis	ATP	Airline Transport Pilot	1	First Class Medical Exam	20-Jan-04	INSTR	Instrument	08-Nov-93
+101	Ms. Rhonda Lewis	ATP	Airline Transport Pilot	1	First Class Medical Exam	20-Jan-04	MEL	Multiengine Land	23-Jun-94
+101	Ms. Rhonda Lewis	ATP	Airline Transport Pilot	1	First Class Medical Exam	20-Jan-04	SEL	Single Engine, Land	21-Apr-93
+104	Mr. John Lange	ATP	Airline Transport Pilot	1	First Class Medical Exam	18-Dec-03	INSTR	Instrument	15-Jul-96
+104	Mr. John Lange	ATP	Airline Transport Pilot	1	First Class Medical Exam	18-Dec-03	MEL	Multiengine Land	29-Jan-97
+104	Mr. John Lange	ATP	Airline Transport Pilot	1	First Class Medical Exam	18-Dec-03	SEL	Single Engine, Land	12-Mar-95
+105	Mr. Robert Williams	COM	Commercial Pilot License	2	Second Class Medical Exam	05-Jan-04	CFI	Certified Flight Instructor	18-Nov-97
+105	Mr. Robert Williams	COM	Commercial Pilot License	2	Second Class Medical Exam	05-Jan-04	INSTR	Instrument	17-Apr-95
+105	Mr. Robert Williams	COM	Commercial Pilot License	2	Second Class Medical Exam	05-Jan-04	MEL	Multiengine Land	12-Aug-95
+105	Mr. Robert Williams	COM	Commercial Pilot License	2	Second Class Medical Exam	05-Jan-04	SEL	Single Engine, Land	23-Sep-94
+106	Mrs. Jeanine Duzak	COM	Commercial Pilot License	2	Second Class Medical Exam	10-Dec-03	INSTR	Instrument	20-Dec-95
+106	Mrs. Jeanine Duzak	COM	Commercial Pilot License	2	Second Class Medical Exam	10-Dec-03	MEL	Multiengine Land	02-Apr-96
+106	Mrs. Jeanine Duzak	COM	Commercial Pilot License	2	Second Class Medical Exam	10-Dec-03	SEL	Single Engine, Land	10-Mar-94
+									
+109	Ms. Elizabeth Travis	COM	Commercial Pilot License	1	First Class Medical Exam	22-Jan-04	CFI	Certified Flight Instructor	05-Nov-98
+109	Ms. Elizabeth Travis	COM	Commercial Pilot License	1	First Class Medical Exam	22-Jan-04	CFII	Certified Flight Instructor, Instrument	21-Jun-03
+109	Ms. Elizabeth Travis	COM	Commercial Pilot License	1	First Class Medical Exam	22-Jan-04	INSTR	Instrument	23-Jul-96
+109	Ms. Elizabeth Travis	COM	Commercial Pilot License	1	First Class Medical Exam	22-Jan-04	MEL	Multiengine Land	15-Mar-97
+109	Ms. Elizabeth Travis	COM	Commercial Pilot License	1	First Class Medical Exam	22-Jan-04	SEL	Single Engine, Land	05-Feb-96
+109	Ms. Elizabeth Travis	COM	Commercial Pilot License	1	First Class Medical Exam	22-Jan-04	SES	Single Engine, Sea	12-May-96
+
+ 
+Aircrafts Model Form							
+Aircraft Number	Total time on the air frame	Total time on the left engine	Total time on the right engine	Aircraft model code	Manufacturer	Model name	Number of seats	Rental charge per milege
+2289L	4243.80	768.90	1123.40	C-90A	Beechcraft	KingAir	8	$2.67
+1484P	1833.10	1833.10	101.80	PA23-250	Piper	Aztec	6	$1.93
+2778V	7992.90	1513.10	789.50	PA31-350	Piper	Navajo Chieftain	10	$2.35
+4278Y	2147.30	622.10	243.20	PA31-350	Piper	Navajo Chieftain	10	$2.35
+
+
+ 
+Aircrafts Charter Form					
+Aircraft Number	Total time on the air frame	Total time on the left engine	Total time on the right engine	Charter Trip	Charter Date	Destination ID
+1484P	1833.10	1833.10	101.80	10004	06-Feb-04	STL
+1484P	1833.10	1833.10	101.80	10008	07-Feb-04	TYS
+1484P	1833.10	1833.10	101.80	10011	07-Feb-04	BNA
+1484P	1833.10	1833.10	101.80	10017	10-Feb-04	STL
+2289L	4243.80	768.90	1123.40	10001	05-Feb-04	ATL
+2289L	4243.80	768.90	1123.40	10005	06-Feb-04	ATL
+2289L	4243.80	768.90	1123.40	10009	07-Feb-04	GNV
+2289L	4243.80	768.90	1123.40	10015	09-Feb-04	GNV
+2778V	7992.90	1513.10	789.50	10002	05-Feb-04	BNA
+2778V	7992.90	1513.10	789.50	10007	06-Feb-04	GNV
+2778V	7992.90	1513.10	789.50	10012	08-Feb-04	MOB
+2778V	7992.90	1513.10	789.50	10016	09-Feb-04	MQV
+4278Y	2147.30	622.10	243.20	10003	05-Feb-04	GNV
+4278Y	2147.30	622.10	243.20	10006	06-Feb-04	STL
+4278Y	2147.30	622.10	243.20	10010	07-Feb-04	ATL
+4278Y	2147.30	622.10	243.20	10013	08-Feb-04	TYS
+4278Y	2147.30	622.10	243.20	10014	09-Feb-04	ATL
+4278Y	2147.30	622.10	243.20	10018	10-Feb-04	TYS
+
+
