@@ -1,4 +1,4 @@
-Created a SQL script with the following DDL and DML statements.  
+Created a SQL script with the following DDL and DML statements.  Normalized (3NF).
 o	All DDL statements to Create tables.  
 o	All needed Constraints (Primary Keys, Foreign Keys, Not Null, …)
 o	SQL Statements to retrieve data for each User View in tabular format.  Add Where clause for each SQL Statement based on the User Views.
