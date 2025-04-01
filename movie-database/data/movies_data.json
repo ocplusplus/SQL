@@ -1,0 +1,452 @@
+[
+    {
+        "movie_title": "Inception",
+        "genre": "Sci-Fi",
+        "release_year": 2010,
+        "director": ["Christopher Nolan"],
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+        "duration": 148,
+        "rating": 8.8
+    },
+    {
+        "movie_title": "The Dark Knight",
+        "genre": "Action",
+        "release_year": 2008,
+        "director": ["Christopher Nolan"],
+        "actors": ["Christian Bale", "Heath Ledger"],
+        "duration": 152,
+        "rating": 9.0
+    },
+    {
+        "movie_title": "Interstellar",
+        "genre": "Sci-Fi",
+        "release_year": 2014,
+        "director": ["Christopher Nolan"],
+        "actors": ["Matthew McConaughey", "Anne Hathaway"],
+        "duration": 169,
+        "rating": 8.6
+    },
+    {
+        "movie_title": "The Matrix",
+        "genre": "Sci-Fi",
+        "release_year": 1999,
+        "director": ["Lana Wachowski"],
+        "actors": ["Keanu Reeves", "Laurence Fishburne"],
+        "duration": 136,
+        "rating": 8.7
+    },
+    {
+        "movie_title": "Pulp Fiction",
+        "genre": "Crime",
+        "release_year": 1994,
+        "director": ["Quentin Tarantino"],
+        "actors": ["John Travolta", "Samuel L. Jackson"],
+        "duration": 154,
+        "rating": 8.9
+    },
+    {
+        "movie_title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "release_year": 1994,
+        "director": ["Frank Darabont"],
+        "actors": ["Tim Robbins", "Morgan Freeman"],
+        "duration": 142,
+        "rating": 9.3
+    },
+    {
+        "movie_title": "The Godfather",
+        "genre": "Crime",
+        "release_year": 1972,
+        "director": ["Francis Ford Coppola"],
+        "actors": ["Marlon Brando", "Al Pacino"],
+        "duration": 175,
+        "rating": 9.2
+    },
+    {
+        "movie_title": "Fight Club",
+        "genre": "Drama",
+        "release_year": 1999,
+        "director": ["David Fincher"],
+        "actors": ["Brad Pitt", "Edward Norton"],
+        "duration": 139,
+        "rating": 8.8
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Return of the King",
+        "genre": "Fantasy",
+        "release_year": 2003,
+        "director": ["Peter Jackson"],
+        "actors": ["Elijah Wood", "Ian McKellen"],
+        "duration": 201,
+        "rating": 8.9
+    },
+    {
+        "movie_title": "Forrest Gump",
+        "genre": "Drama",
+        "release_year": 1994,
+        "director": ["Robert Zemeckis"],
+        "actors": ["Tom Hanks", "Robin Wright"],
+        "duration": 142,
+        "rating": 8.8
+    },
+    {
+        "movie_title": "Gladiator",
+        "genre": "Action",
+        "release_year": 2000,
+        "director": ["Ridley Scott"],
+        "actors": ["Russell Crowe", "Joaquin Phoenix"],
+        "duration": 155,
+        "rating": 8.5
+    },
+    {
+        "movie_title": "The Avengers",
+        "genre": "Action",
+        "release_year": 2012,
+        "director": ["Joss Whedon"],
+        "actors": ["Robert Downey Jr.", "Chris Evans"],
+        "duration": 143,
+        "rating": 8.0
+    },
+    {
+        "movie_title": "Avatar",
+        "genre": "Fantasy",
+        "release_year": 2009,
+        "director": ["James Cameron"],
+        "actors": ["Sam Worthington", "Zoe Saldana"],
+        "duration": 162,
+        "rating": 7.8
+    },
+    {
+        "movie_title": "Titanic",
+        "genre": "Romance",
+        "release_year": 1997,
+        "director": ["James Cameron"],
+        "actors": ["Leonardo DiCaprio", "Kate Winslet"],
+        "duration": 195,
+        "rating": 7.9
+    },
+    {
+        "movie_title": "The Lion King",
+        "genre": "Animation",
+        "release_year": 1994,
+        "director": ["Roger Allers"],
+        "actors": ["Matthew Broderick", "Jeremy Irons"],
+        "duration": 88,
+        "rating": 8.5
+    },
+    {
+        "movie_title": "Spirited Away",
+        "genre": "Animation",
+        "release_year": 2001,
+        "director": ["Hayao Miyazaki"],
+        "actors": ["Rumi Hiiragi", "Miyu Irino"],
+        "duration": 125,
+        "rating": 8.6
+    },
+    {
+        "movie_title": "Coco",
+        "genre": "Animation",
+        "release_year": 2017,
+        "director": ["Lee Unkrich"],
+        "actors": ["Anthony Gonzalez", "Gael Garcia Bernal"],
+        "duration": 105,
+        "rating": 8.4
+    },
+    {
+        "movie_title": "The Grand Budapest Hotel",
+        "genre": "Comedy",
+        "release_year": 2014,
+        "director": ["Wes Anderson"],
+        "actors": ["Ralph Fiennes", "Tony Revolori"],
+        "duration": 99,
+        "rating": 8.1
+    },
+    {
+        "movie_title": "The Social Network",
+        "genre": "Biography",
+        "release_year": 2010,
+        "director": ["David Fincher"],
+        "actors": ["Jesse Eisenberg", "Andrew Garfield"],
+        "duration": 120,
+        "rating": 7.7
+    },
+    {
+        "movie_title": "Parasite",
+        "genre": "Thriller",
+        "release_year": 2019,
+        "director": ["Bong Joon-ho"],
+        "actors": ["Kang-ho Song", "Sun-kyun Lee"],
+        "duration": 132,
+        "rating": 8.6
+    },
+    {
+        "movie_title": "Joker",
+        "genre": "Crime",
+        "release_year": 2019,
+        "director": ["Todd Phillips"],
+        "actors": ["Joaquin Phoenix", "Robert De Niro"],
+        "duration": 122,
+        "rating": 8.4
+    },
+    {
+        "movie_title": "Black Panther",
+        "genre": "Action",
+        "release_year": 2018,
+        "director": ["Ryan Coogler"],
+        "actors": ["Chadwick Boseman", "Michael B. Jordan"],
+        "duration": 134,
+        "rating": 7.3
+    },
+    {
+        "movie_title": "Mad Max: Fury Road",
+        "genre": "Action",
+        "release_year": 2015,
+        "director": ["George Miller"],
+        "actors": ["Tom Hardy", "Charlize Theron"],
+        "duration": 120,
+        "rating": 8.1
+    },
+    {
+        "movie_title": "The Irishman",
+        "genre": "Crime",
+        "release_year": 2019,
+        "director": ["Martin Scorsese"],
+        "actors": ["Robert De Niro", "Al Pacino"],
+        "duration": 209,
+        "rating": 7.9
+    },
+    {
+        "movie_title": "Blade Runner 2049",
+        "genre": "Sci-Fi",
+        "release_year": 2017,
+        "director": ["Denis Villeneuve"],
+        "actors": ["Ryan Gosling", "Harrison Ford"],
+        "duration": 164,
+        "rating": 8.0
+    },
+    {
+        "movie_title": "Whiplash",
+        "genre": "Drama",
+        "release_year": 2014,
+        "director": ["Damien Chazelle"],
+        "actors": ["Miles Teller", "J.K. Simmons"],
+        "duration": 107,
+        "rating": 8.5
+    },
+    {
+        "movie_title": "The Revenant",
+        "genre": "Adventure",
+        "release_year": 2015,
+        "director": ["Alejandro G. Inarritu"],
+        "actors": ["Leonardo DiCaprio", "Tom Hardy"],
+        "duration": 156,
+        "rating": 8.0
+    },
+    {
+        "movie_title": "La La Land",
+        "genre": "Romance",
+        "release_year": 2016,
+        "director": ["Damien Chazelle"],
+        "actors": ["Ryan Gosling", "Emma Stone"],
+        "duration": 128,
+        "rating": 8.0
+    },
+    {
+        "movie_title": "The Big Short",
+        "genre": "Comedy",
+        "release_year": 2015,
+        "director": ["Adam McKay"],
+        "actors": ["Christian Bale", "Steve Carell"],
+        "duration": 130,
+        "rating": 7.8
+    },
+    {
+        "movie_title": "Inside Out",
+        "genre": "Animation",
+        "release_year": 2015,
+        "director": ["Pete Docter"],
+        "actors": ["Amy Poehler", "Bill Hader"],
+        "duration": 95,
+        "rating": 8.1
+    },
+    {
+        "movie_title": "Frozen",
+        "genre": "Animation",
+        "release_year": 2013,
+        "director": ["Chris Buck"],
+        "actors": ["Kristen Bell", "Idina Menzel"],
+        "duration": 102,
+        "rating": 7.4
+    },
+    {
+        "movie_title": "Zootopia",
+        "genre": "Animation",
+        "release_year": 2016,
+        "director": ["Byron Howard"],
+        "actors": ["Ginnifer Goodwin", "Jason Bateman"],
+        "duration": 108,
+        "rating": 8.0
+    },
+    {
+        "movie_title": "Moana",
+        "genre": "Animation",
+        "release_year": 2016,
+        "director": ["Ron Clements"],
+        "actors": ["Auli'i Cravalho", "Dwayne Johnson"],
+        "duration": 107,
+        "rating": 7.6
+    },
+    {
+        "movie_title": "The Shape of Water",
+        "genre": "Fantasy",
+        "release_year": 2017,
+        "director": ["Guillermo del Toro"],
+        "actors": ["Sally Hawkins", "Michael Shannon"],
+        "duration": 123,
+        "rating": 7.3
+    },
+    {
+        "movie_title": "The Martian",
+        "genre": "Sci-Fi",
+        "release_year": 2015,
+        "director": ["Ridley Scott"],
+        "actors": ["Matt Damon", "Jessica Chastain"],
+        "duration": 144,
+        "rating": 8.0
+    },
+    {
+        "movie_title": "Dunkirk",
+        "genre": "War",
+        "release_year": 2017,
+        "director": ["Christopher Nolan"],
+        "actors": ["Fionn Whitehead", "Tom Hardy"],
+        "duration": 106,
+        "rating": 7.9
+    },
+    {
+        "movie_title": "1917",
+        "genre": "War",
+        "release_year": 2019,
+        "director": ["Sam Mendes"],
+        "actors": ["George MacKay", "Dean-Charles Chapman"],
+        "duration": 119,
+        "rating": 8.3
+    },
+    {
+        "movie_title": "A Star Is Born",
+        "genre": "Romance",
+        "release_year": 2018,
+        "director": ["Bradley Cooper"],
+        "actors": ["Bradley Cooper", "Lady Gaga"],
+        "duration": 136,
+        "rating": 7.6
+    },
+    {
+        "movie_title": "Bohemian Rhapsody",
+        "genre": "Biography",
+        "release_year": 2018,
+        "director": ["Bryan Singer"],
+        "actors": ["Rami Malek", "Lucy Boynton"],
+        "duration": 134,
+        "rating": 7.9
+    },
+    {
+        "movie_title": "The Lighthouse",
+        "genre": "Horror",
+        "release_year": 2019,
+        "director": ["Robert Eggers"],
+        "actors": ["Robert Pattinson", "Willem Dafoe"],
+        "duration": 109,
+        "rating": 7.5
+    },
+    {
+        "movie_title": "Us",
+        "genre": "Horror",
+        "release_year": 2019,
+        "director": ["Jordan Peele"],
+        "actors": ["Lupita Nyong'o", "Winston Duke"],
+        "duration": 116,
+        "rating": 6.8
+    },
+    {
+        "movie_title": "Her",
+        "genre": "Sci-Fi",
+        "release_year": 2013,
+        "director": ["Spike Jonze"],
+        "actors": ["Joaquin Phoenix", "Scarlett Johansson"],
+        "duration": 126,
+        "rating": 8.0
+    },
+    {
+        "movie_title": "Ex Machina",
+        "genre": "Sci-Fi",
+        "release_year": 2014,
+        "director": ["Alex Garland"],
+        "actors": ["Alicia Vikander", "Domhnall Gleeson"],
+        "duration": 108,
+        "rating": 7.7
+    },
+    {
+        "movie_title": "The Witch",
+        "genre": "Horror",
+        "release_year": 2015,
+        "director": ["Robert Eggers"],
+        "actors": ["Anya Taylor-Joy", "Ralph Ineson"],
+        "duration": 92,
+        "rating": 6.9
+    },
+    {
+        "movie_title": "The Babadook",
+        "genre": "Horror",
+        "release_year": 2014,
+        "director": ["Jennifer Kent"],
+        "actors": ["Essie Davis", "Noah Wiseman"],
+        "duration": 94,
+        "rating": 6.8
+    },
+    {
+        "movie_title": "The Conjuring",
+        "genre": "Horror",
+        "release_year": 2013,
+        "director": ["James Wan"],
+        "actors": ["Vera Farmiga", "Patrick Wilson"],
+        "duration": 112,
+        "rating": 7.5
+    },
+    {
+        "movie_title": "Get Out",
+        "genre": "Thriller",
+        "release_year": 2017,
+        "director": ["Jordan Peele"],
+        "actors": ["Daniel Kaluuya", "Allison Williams"],
+        "duration": 104,
+        "rating": 7.7
+    },
+    {
+        "movie_title": "The Prestige",
+        "genre": "Drama",
+        "release_year": 2006,
+        "director": ["Christopher Nolan"],
+        "actors": ["Christian Bale", "Hugh Jackman"],
+        "duration": 130,
+        "rating": 8.5
+    },
+    {
+        "movie_title": "Inglourious Basterds",
+        "genre": "War",
+        "release_year": 2009,
+        "director": ["Quentin Tarantino"],
+        "actors": ["Brad Pitt", "Diane Kruger"],
+        "duration": 153,
+        "rating": 8.3
+    },
+    {
+        "movie_title": "The Hateful Eight",
+        "genre": "Western",
+        "release_year": 2015,
+        "director": ["Quentin Tarantino"],
+        "actors": ["Samuel L. Jackson", "Kurt Russell"],
+        "duration": 168,
+        "rating": 7.8
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Smith",
+        "customer_email": "user1@example.com",
+        "phone": "123-456-7890",
+        "address": [{"street": "123 Main Street", "city": "Toronto", "province": "ON", "postalCode": "M4B1B3" }],
+        "dob": "1985-03-15"
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "customer_email": "user2@example.com",
+        "phone": "234-567-8901",
+        "address": [{"street": "456 Elm Street", "city": "Winnipeg", "province": "MB", "postalCode": "R3C0A1"}], 
+        "dob": "1992-08-27"
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "Johnson",
+        "customer_email": "user3@example.com",
+        "phone": "345-678-9012",
+        "address": [{"street": "789 Oak Avenue", "city": "Ottawa", "province": "ON", "postalCode": "K1A0A1" }],
+        "dob": "1978-01-11"
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "customer_email": "user4@example.com",
+        "phone": "456-789-0123",
+        "address": [{"street": "321 Pine Road", "city": "Edmonton", "province": "AB", "postalCode": "T5A0A1" }],
+        "dob": "1988-07-22"
+    },
+    {
+        "first_name": "Chris",
+        "last_name": "Garcia",
+        "customer_email": "user5@example.com",
+        "phone": "567-890-1234",
+        "address": [{"street": "654 Cedar Lane", "city": "Quebec City", "province": "QC", "postalCode": "G1A0A1" }],
+        "dob": "1999-04-18"
+    },
+    {
+        "first_name": "Anna",
+        "last_name": "Martinez",
+        "customer_email": "user6@example.com",
+        "phone": "678-901-2345",
+        "address": [{"street": "987 Maple Court", "city": "St. John's", "province": "NL", "postalCode": "A1A0A1" }],
+        "dob": "1975-12-30"
+    },
+    {
+        "first_name": "David",
+        "last_name": "Miller",
+        "customer_email": "user7@example.com",
+        "phone": "789-012-3456",
+        "address": [{"street": "111 Birch Circle", "city": "Victoria", "province": "BC", "postalCode": "V8W1A1" }],
+        "dob": "1990-06-09"
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Davis",
+        "customer_email": "user8@example.com",
+        "phone": "890-123-4567",
+        "address": [{"street": "222 Spruce Boulevard", "city": "Fredericton", "province": "NB", "postalCode": "E3B0A1" }],
+        "dob": "1982-09-04"
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Clark",
+        "customer_email": "user9@example.com",
+        "phone": "901-234-5678",
+        "address": [{"street": "333 Chestnut Street","city": "Winnipeg", "province": "MB", "postalCode": "R2C0D1"}],
+        "dob": "2000-03-25"
+    },
+    {
+        "first_name": "Sophia",
+        "last_name": "Smith",
+        "customer_email": "user10@example.com",
+        "phone": "012-345-6789",
+        "address": [{"street": "444 Willow Lane", "city": "Toronto", "province": "ON", "postalCode": "M4B1D3" }],
+        "dob": "1976-10-17"
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Johnson",
+        "customer_email": "user11@example.com",
+        "phone": "111-222-3333",
+        "address": [{"street":"555 Maple Street", "city": "Charlottetown", "province": "PE", "postalCode": "C1A0A1" }],
+        "dob": "1993-11-02"
+    },
+    {
+        "first_name": "Laura",
+        "last_name": "Williams",
+        "customer_email": "user12@example.com",
+        "phone": "222-333-4444",
+        "address": [{"street": "666 Pine Avenue", "city": "Whitehorse", "province": "YT", "postalCode": "Y1A0A1" }],
+        "dob": "1987-07-14"
+    },
+    {
+        "first_name": "James",
+        "last_name": "Jones",
+        "customer_email": "user13@example.com",
+        "phone": "333-444-5555",
+        "address": [{"street": "777 Oak Circle", "city": "Halifax", "province": "NS", "postalCode": "B3H0A1" }],
+        "dob": "1995-03-09"
+    },
+    {
+        "first_name": "Linda",
+        "last_name": "Brown",
+        "customer_email": "user14@example.com",
+        "phone": "444-555-6666",
+        "address": [{"street": "888 Birch Road", "city": "Ottawa", "province": "ON", "postalCode": "K1A0A1" }],
+        "dob": "1983-10-29"
+    },
+    {
+        "first_name": "Kevin",
+        "last_name": "Martinez",
+        "customer_email": "user15@example.com",
+        "phone": "555-666-7777",
+        "address": [{"street": "999 Cedar Lane","city": "Winnipeg", "province": "MB", "postalCode": "R3C0A1"}],
+        "dob": "1974-12-18"
+    },
+    {
+        "first_name": "Diana",
+        "last_name": "Davis",
+        "customer_email": "user16@example.com",
+        "phone": "666-777-8888",
+        "address": [{"street": "101 Maple Drive", "city": "Edmonton", "province": "AB", "postalCode": "T5A0A1" }],
+        "dob": "1991-04-03"
+    },
+    {
+        "first_name": "Chris",
+        "last_name": "Clark",
+        "customer_email": "user17@example.com",
+        "phone": "777-888-9999",
+        "address": [{"street": "202 Pine Avenue", "city": "Victoria", "province": "BC", "postalCode": "V8W1A1" }],
+        "dob": "1986-08-22"
+    },
+    {
+        "first_name": "Megan",
+        "last_name": "Miller",
+        "customer_email": "user18@example.com",
+        "phone": "888-999-1111",
+        "address": [{"street": "303 Oak Boulevard", "city": "Toronto", "province": "ON", "postalCode": "M5B1B3" }],
+        "dob": "1979-02-14"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Jones",
+        "customer_email": "user19@example.com",
+        "phone": "999-111-2222",
+        "address": [{"street": "404 Birch Street", "city": "Fredericton", "province": "NB", "postalCode": "E3B0A1" }],
+        "dob": "1997-09-01"
+    },
+    {
+        "first_name": "Olivia",
+        "last_name": "Smith",
+        "customer_email": "user20@example.com",
+        "phone": "111-333-2222",
+        "address": [{"street": "505 Cedar Circle", "city": "Ottawa", "province": "ON", "postalCode": "K1A0A1" }],
+        "dob": "1984-11-16"
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Garcia",
+        "customer_email": "user21@example.com",
+        "phone": "222-444-3333",
+        "address": [{"street": "606 Maple Boulevard", "city": "Edmonton", "province": "AB", "postalCode": "T5A0A1" }],
+        "dob": "1981-06-07"
+    },
+    {
+        "first_name": "Emma",
+        "last_name": "Davis",
+        "customer_email": "user22@example.com",
+        "phone": "333-555-4444",
+        "address": [{"street": "707 Pine Court", "city": "Victoria", "province": "BC", "postalCode": "V8W1A1" }],
+        "dob": "2001-12-25"
+    },
+    {
+        "first_name": "Jason",
+        "last_name": "Williams",
+        "customer_email": "user23@example.com",
+        "phone": "444-666-5555",
+        "address": [{"street": "808 Oak Road", "city": "Quebec City", "province": "QC", "postalCode": "G1A0A1" }],
+        "dob": "1973-05-20"
+    },
+    {
+        "first_name": "Sophia",
+        "last_name": "Johnson",
+        "customer_email": "user24@example.com",
+        "phone": "555-777-6666",
+        "address": [{"street": "909 Birch Lane", "city": "Calgary", "province": "AB", "postalCode": "T2A0C1" }],
+        "dob": "1990-08-13"
+    },
+    {
+        "first_name": "Jacob",
+        "last_name": "Martinez",
+        "customer_email": "user25@example.com",
+        "phone": "666-888-7777",
+        "address": [{"street": "101 Spruce Boulevard", "city": "Vancouver", "province": "BC", "postalCode": "V5K0A1" }],
+        "dob": "1977-03-17"
+    },
+    {
+        "first_name": "Mia",
+        "last_name": "Smith",
+        "customer_email": "user26@example.com",
+        "phone": "777-999-8888",
+        "address": [{"street": "202 Willow Street", "city": "Quebec City", "province": "QC", "postalCode": "G1A0A1" }],
+        "dob": "1998-07-19"
+    },
+    {
+        "first_name": "Lucas",
+        "last_name": "Clark",
+        "customer_email": "user27@example.com",
+        "phone": "888-111-9999",
+        "address": [{"street": "303 Elm Court", "city": "Quebec City", "province": "QC", "postalCode": "G5A0Z1" }],
+        "dob": "1989-02-11"
+    },
+    {
+        "first_name": "Ella",
+        "last_name": "Brown",
+        "customer_email": "user28@example.com",
+        "phone": "999-222-1111",
+        "address": [{"street": "404 Cedar Road", "city": "Charlottetown", "province": "PE", "postalCode": "C1A0A1" }],
+        "dob": "1980-10-24"
+    },
+    {
+        "first_name": "Ethan",
+        "last_name": "Garcia",
+        "customer_email": "user29@example.com",
+        "phone": "111-444-2222",
+        "address": [{"street": "505 Oak Avenue","city": "Winnipeg", "province": "MB", "postalCode": "R3C0A1"}],
+        "dob": "1972-11-09"
+    },
+    {
+        "first_name": "Ava",
+        "last_name": "Miller",
+        "customer_email": "user30@example.com",
+        "phone": "222-555-3333",
+        "address": [{"street": "606 Maple Circle", "city": "St. John's", "province": "NL", "postalCode": "A1A0A1" }],
+        "dob": "1994-09-29"
+    },
+    {
+        "first_name": "Liam",
+        "last_name": "Johnson",
+        "customer_email": "user31@example.com",
+        "phone": "333-666-4444",
+        "address": [{"street": "707 Pine Boulevard", "city": "Regina", "province": "SK", "postalCode": "S4P0A1" }],
+        "dob": "1986-12-07"
+    },
+    {
+        "first_name": "Isabella",
+        "last_name": "Davis",
+        "customer_email": "user32@example.com",
+        "phone": "444-777-5555",
+        "address": [{"street": "808 Birch Court", "city": "Halifax", "province": "NS", "postalCode": "B3H0A1" }],
+        "dob": "1999-06-18"
+    },
+    {
+        "first_name": "Noah",
+        "last_name": "Jones",
+        "customer_email": "user33@example.com",
+        "phone": "555-888-6666",
+        "address": [{"street": "909 Cedar Lane", "city": "Regina", "province": "SK", "postalCode": "S8P0Z1" }],
+        "dob": "1978-01-31"
+    },
+    {
+        "first_name": "Harper",
+        "last_name": "Smith",
+        "customer_email": "user34@example.com",
+        "phone": "666-999-7777",
+        "address": [{"street": "101 Maple Avenue","city": "Toronto", "province": "ON", "postalCode": "M8B1B2" }],
+        "dob": "1982-05-15"
+    },
+    {
+        "first_name": "Logan",
+        "last_name": "Garcia",
+        "customer_email": "user35@example.com",
+        "phone": "777-111-8888",
+        "address": [{"street": "202 Pine Drive", "city": "Fredericton", "province": "NB", "postalCode": "E3B0A1" }],
+        "dob": "1995-11-12"
+    },
+    {
+        "first_name": "Amelia",
+        "last_name": "Williams",
+        "customer_email": "user36@example.com", 
+        "phone": "888-222-9999",
+        "address": [{"street": "303 Oak Street", "city": "Ottawa", "province": "ON", "postalCode": "K1A0A1" }],
+        "dob": "1979-04-26"
+    },
+    {
+        "first_name": "Lucas",
+        "last_name": "Martinez",
+        "customer_email": "user37@example.com",
+        "phone": "999-333-1111",
+        "address": [{"street": "404 Spruce Circle", "city": "Whitehorse", "province": "YT", "postalCode": "Y1A0A1" }],
+        "dob": "2003-10-03"
+    },
+    {
+        "first_name": "Charlotte",
+        "last_name": "Clark",
+        "customer_email": "user38@example.com",
+        "phone": "111-555-2222",
+        "address": [{"street": "505 Cedar Boulevard","city": "Winnipeg", "province": "MB", "postalCode": "R3C0A1"}],
+        "dob": "1987-02-09"
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "Brown",
+        "customer_email": "user39@example.com",
+        "phone": "222-666-3333",
+        "address": [{"street": "606 Oak Road", "city": "Calgary", "province": "AB", "postalCode": "T2A0C1" }],
+        "dob": "1996-08-14"
+    },
+    {
+        "first_name": "Abigail",
+        "last_name": "Miller",
+        "customer_email": "user40@example.com",
+        "phone": "333-777-4444",
+        "address": [{"street": "707 Maple Lane", "city": "Whitehorse", "province": "YT", "postalCode": "Y1A0A1" }],
+        "dob": "1983-09-22"
+    },
+    {
+        "first_name": "Benjamin",
+        "last_name": "Davis",
+        "customer_email": "user41@example.com",
+        "phone": "444-888-5555",
+        "address": [{"street": "808 Pine Circle", "city": "Fredericton", "province": "NB", "postalCode": "E3B0A1" }],
+        "dob": "1971-06-06"
+    },
+    {
+        "first_name": "Evelyn",
+        "last_name": "Smith",
+        "customer_email": "user42@example.com",
+        "phone": "555-999-6666",
+        "address": [{"street": "909 Birch Boulevard", "city": "Montreal", "province": "QC", "postalCode": "H1A0A1" }],
+        "dob": "1992-01-27"
+    },
+    {
+        "first_name": "Henry",
+        "last_name": "Garcia",
+        "customer_email": "user43@example.com",
+        "phone": "666-111-7777",
+        "address": [{"street": "101 Willow Court", "city": "St. John's", "province": "NL", "postalCode": "A1A0A1" }],
+        "dob": "1985-11-03"
+    },
+    {
+        "first_name": "Sofia",
+        "last_name": "Martinez",
+        "customer_email": "user44@example.com",
+        "phone": "777-222-8888",
+        "address": [{"street": "202 Elm Road", "city": "Regina", "province": "SK", "postalCode": "S4P0A1" }],
+        "dob": "1976-07-29"
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Clark",
+        "customer_email": "user45@example.com",
+        "phone": "888-333-9999",
+        "address": [{"street": "303 Maple Lane", "city": "Ottawa", "province": "ON", "postalCode": "K1A0A1" }],
+        "dob": "1989-09-05"
+    },
+    {
+        "first_name": "Victoria",
+        "last_name": "Brown",
+        "customer_email": "user46@example.com",
+        "phone": "999-444-1111",
+        "address": [{"street": "404 Pine Avenue","city": "Toronto", "province": "ON", "postalCode": "M1B1Z3" }],
+        "dob": "1994-12-30"
+    },
+    {
+        "first_name": "Owen",
+        "last_name": "Garcia",
+        "customer_email": "user47@example.com",
+        "phone": "111-666-2222",
+        "address": [{"street": "505 Oak Boulevard", "city": "Halifax", "province": "NS", "postalCode": "B3H0A1" }],
+        "dob": "1988-10-20"
+    },
+    {
+        "first_name": "Hannah",
+        "last_name": "Williams",
+        "customer_email": "user48@example.com",
+        "phone": "222-777-3333",
+        "address": [{"street": "606 Spruce Circle", "city": "Montreal", "province": "QC", "postalCode": "H1A0A1" }],
+        "dob": "2000-08-18"
+    },
+    {
+        "first_name": "Matthew",
+        "last_name": "Smith",
+        "customer_email": "user49@example.com",
+        "phone": "333-888-4444",
+        "address": [{"street": "707 Cedar Road", "city": "Calgary", "province": "AB", "postalCode": "T2A0C1" }],
+        "dob": "1981-03-01"
+    },
+    {
+        "first_name": "Grace",
+        "last_name": "Miller",
+        "customer_email": "user50@example.com",
+        "phone": "444-999-5555",
+        "address": [{"street": "808 Maple Drive", "city": "Vancouver", "province": "BC", "postalCode": "V5K0A1" }],
+        "dob": "1974-05-21"
+    }
+]

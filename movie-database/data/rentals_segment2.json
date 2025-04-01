@@ -1,0 +1,352 @@
+[
+    {
+        "rental_date": "2024-02-15",
+        "return_date": "2024-03-01",
+        "movie_title": "Interstellar",
+        "customer_email": "user78@example.com",
+        "rental_fee": 6.99
+    },
+    {
+        "rental_date": "2024-02-20",
+        "return_date": "2024-03-10",
+        "movie_title": "The Matrix",
+        "customer_email": "user45@example.com",
+        "rental_fee": 7.49
+    },
+    {
+        "rental_date": "2024-03-05",
+        "return_date": "2024-03-20",
+        "movie_title": "The Grand Budapest Hotel",
+        "customer_email": "user67@example.com",
+        "rental_fee": 8.39
+    },
+    {
+        "rental_date": "2024-03-12",
+        "return_date": "2024-03-27",
+        "movie_title": "Fight Club",
+        "customer_email": "user89@example.com",
+        "rental_fee": 5.99
+    },
+    {
+        "rental_date": "2024-03-18",
+        "return_date": "2024-04-02",
+        "movie_title": "The Shawshank Redemption",
+        "customer_email": "user23@example.com",
+        "rental_fee": 7.49
+    },
+    {
+        "rental_date": "2024-03-25",
+        "return_date": "2024-04-10",
+        "movie_title": "Gladiator",
+        "customer_email": "user56@example.com",
+        "rental_fee": 8.19
+    },
+    {
+        "rental_date": "2024-04-01",
+        "return_date": "2024-04-20",
+        "movie_title": "The Social Network",
+        "customer_email": "user34@example.com",
+        "rental_fee": 6.89
+    },
+    {
+        "rental_date": "2024-04-08",
+        "return_date": "2024-04-25",
+        "movie_title": "Pulp Fiction",
+        "customer_email": "user12@example.com",
+        "rental_fee": 5.49
+    },
+    {
+        "rental_date": "2024-04-15",
+        "return_date": "2024-05-01",
+        "movie_title": "The Dark Knight",
+        "customer_email": "user67@example.com",
+        "rental_fee": 7.79
+    },
+    {
+        "rental_date": "2024-04-20",
+        "return_date": "2024-05-05",
+        "movie_title": "Parasite",
+        "customer_email": "user78@example.com",
+        "rental_fee": 6.99
+    },
+    {
+        "rental_date": "2024-04-25",
+        "return_date": "2024-05-15",
+        "movie_title": "Avatar",
+        "customer_email": "user89@example.com",
+        "rental_fee": 8.19
+    },
+    {
+        "rental_date": "2024-05-01",
+        "return_date": "2024-05-20",
+        "movie_title": "Inception",
+        "customer_email": "user23@example.com",
+        "rental_fee": 4.99
+    },
+    {
+        "rental_date": "2024-05-10",
+        "return_date": "2024-05-30",
+        "movie_title": "Titanic",
+        "customer_email": "user45@example.com",
+        "rental_fee": 5.79
+    },
+    {
+        "rental_date": "2024-05-15",
+        "return_date": "2024-06-05",
+        "movie_title": "The Lion King",
+        "customer_email": "user67@example.com",
+        "rental_fee": 8.99
+    },
+    {
+        "rental_date": "2024-05-20",
+        "return_date": "2024-06-10",
+        "movie_title": "Black Panther",
+        "customer_email": "user12@example.com",
+        "rental_fee": 6.49
+    },
+    {
+        "rental_date": "2024-05-25",
+        "return_date": "2024-06-15",
+        "movie_title": "Mad Max: Fury Road",
+        "customer_email": "user78@example.com",
+        "rental_fee": 7.49
+    },
+    {
+        "rental_date": "2024-06-01",
+        "return_date": "2024-06-25",
+        "movie_title": "The Irishman",
+        "customer_email": "user89@example.com",
+        "rental_fee": 4.79
+    },
+    {
+        "rental_date": "2024-06-05",
+        "return_date": "2024-07-01",
+        "movie_title": "Blade Runner 2049",
+        "customer_email": "user56@example.com",
+        "rental_fee": 6.79
+    },
+    {
+        "rental_date": "2024-06-10",
+        "return_date": "2024-07-05",
+        "movie_title": "Whiplash",
+        "customer_email": "user34@example.com",
+        "rental_fee": 5.99
+    },
+    {
+        "rental_date": "2024-06-15",
+        "return_date": "2024-07-10",
+        "movie_title": "The Revenant",
+        "customer_email": "user23@example.com",
+        "rental_fee": 8.99
+    },
+    {
+        "rental_date": "2024-06-20",
+        "return_date": "2024-07-15",
+        "movie_title": "La La Land",
+        "customer_email": "user45@example.com",
+        "rental_fee": 7.89
+    },
+    {
+        "rental_date": "2024-06-25",
+        "return_date": "2024-07-20",
+        "movie_title": "The Big Short",
+        "customer_email": "user67@example.com",
+        "rental_fee": 4.99
+    },
+    {
+        "rental_date": "2024-07-01",
+        "return_date": "2024-07-25",
+        "movie_title": "Inside Out",
+        "customer_email": "user78@example.com",
+        "rental_fee": 5.49
+    },
+    {
+        "rental_date": "2024-07-05",
+        "return_date": "2024-08-01",
+        "movie_title": "Frozen",
+        "customer_email": "user89@example.com",
+        "rental_fee": 8.19
+    },
+    {
+        "rental_date": "2024-07-10",
+        "return_date": "2024-08-05",
+        "movie_title": "Zootopia",
+        "customer_email": "user12@example.com",
+        "rental_fee": 7.49
+    },
+    {
+        "rental_date": "2024-07-15",
+        "return_date": "2024-08-10",
+        "movie_title": "Moana",
+        "customer_email": "user34@example.com",
+        "rental_fee": 6.49
+    },
+    {
+        "rental_date": "2024-07-20",
+        "return_date": "2024-08-15",
+        "movie_title": "The Shape of Water",
+        "customer_email": "user56@example.com",
+        "rental_fee": 7.99
+    },
+    {
+        "rental_date": "2024-07-25",
+        "return_date": "2024-08-20",
+        "movie_title": "The Martian",
+        "customer_email": "user23@example.com",
+        "rental_fee": 4.79
+    },
+    {
+        "rental_date": "2024-08-01",
+        "return_date": "2024-08-25",
+        "movie_title": "Dunkirk",
+        "customer_email": "user45@example.com",
+        "rental_fee": 6.49
+    },
+    {
+        "rental_date": "2024-08-05",
+        "return_date": "2024-09-01",
+        "movie_title": "1917",
+        "customer_email": "user67@example.com",
+        "rental_fee": 5.79
+    },
+    {
+        "rental_date": "2024-08-10",
+        "return_date": "2024-09-05",
+        "movie_title": "A Star Is Born",
+        "customer_email": "user78@example.com",
+        "rental_fee": 8.99
+    },
+    {
+        "rental_date": "2024-08-15",
+        "return_date": "2024-09-10",
+        "movie_title": "Bohemian Rhapsody",
+        "customer_email": "user89@example.com",
+        "rental_fee": 7.99
+    },
+    {
+        "rental_date": "2024-08-20",
+        "return_date": "2024-09-15",
+        "movie_title": "The Lighthouse",
+        "customer_email": "user23@example.com",
+        "rental_fee": 6.79
+    },
+    {
+        "rental_date": "2024-08-25",
+        "return_date": "2024-09-20",
+        "movie_title": "Us",
+        "customer_email": "user12@example.com",
+        "rental_fee": 5.99
+    },
+    {
+        "rental_date": "2024-09-01",
+        "return_date": "2024-09-25",
+        "movie_title": "Her",
+        "customer_email": "user34@example.com",
+        "rental_fee": 7.49
+    },
+    {
+        "rental_date": "2024-09-05",
+        "return_date": "2024-09-30",
+        "movie_title": "Ex Machina",
+        "customer_email": "user56@example.com",
+        "rental_fee": 8.39
+    },
+    {
+        "rental_date": "2024-09-10",
+        "return_date": "2024-10-05",
+        "movie_title": "The Witch",
+        "customer_email": "user78@example.com",
+        "rental_fee": 4.99
+    },
+    {
+        "rental_date": "2024-09-15",
+        "return_date": "2024-10-10",
+        "movie_title": "The Babadook",
+        "customer_email": "user45@example.com",
+        "rental_fee": 6.99
+    },
+    {
+        "rental_date": "2024-09-20",
+        "return_date": "2024-10-15",
+        "movie_title": "The Conjuring",
+        "customer_email": "user67@example.com",
+        "rental_fee": 8.49
+    },
+    {
+        "rental_date": "2024-09-25",
+        "return_date": "2024-10-20",
+        "movie_title": "Get Out",
+        "customer_email": "user89@example.com",
+        "rental_fee": 7.49
+    },
+    {
+        "rental_date": "2024-10-01",
+        "return_date": "2024-10-25",
+        "movie_title": "The Shawshank Redemption",
+        "customer_email": "user23@example.com",
+        "rental_fee": 6.99
+    },
+    {
+        "rental_date": "2024-10-05",
+        "return_date": "2024-10-30",
+        "movie_title": "Fight Club",
+        "customer_email": "user12@example.com",
+        "rental_fee": 5.79
+    },
+    {
+        "rental_date": "2024-12-10",
+        "return_date": "2024-12-25",
+        "movie_title": "The Godfather",
+        "customer_email": "user34@example.com",
+        "rental_fee": 7.89
+    },
+    {
+        "rental_date": "2024-10-15",
+        "return_date": "2024-11-10",
+        "movie_title": "Pulp Fiction",
+        "customer_email": "user56@example.com",
+        "rental_fee": 4.89
+    },
+    {
+        "rental_date": "2024-12-20",
+        "return_date": "2024-12-31",
+        "movie_title": "Gladiator",
+        "customer_email": "user78@example.com",
+        "rental_fee": 6.79
+    },
+    {
+        "rental_date": "2024-11-05",
+        "return_date": "2024-11-20",
+        "movie_title": "The Social Network",
+        "customer_email": "user89@example.com",
+        "rental_fee": 7.99
+    },
+    {
+        "rental_date": "2024-06-03",
+        "return_date": "2024-06-20",
+        "movie_title": "Pulp Fiction",
+        "customer_email": "user12@example.com",
+        "rental_fee": 5.99
+    },
+    {
+        "rental_date": "2024-07-08",
+        "return_date": "2024-07-22",
+        "movie_title": "The Shawshank Redemption",
+        "customer_email": "user67@example.com",
+        "rental_fee": 8.49
+    },
+    {
+        "rental_date": "2024-08-01",
+        "return_date": "2024-08-15",
+        "movie_title": "Fight Club",
+        "customer_email": "user78@example.com",
+        "rental_fee": 6.99
+    },
+    {
+        "rental_date": "2024-08-14",
+        "return_date": "2024-08-30",
+        "movie_title": "The Godfather",
+        "customer_email": "user89@example.com",
+        "rental_fee": 7.39
+    }
+]

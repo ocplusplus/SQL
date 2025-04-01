@@ -1,0 +1,51 @@
+movie_title,genre,release_year,director,actors,duration,rating
+Inception,Sci-Fi,2010,"[""Christopher Nolan""]","[""Leonardo DiCaprio"", ""Joseph Gordon-Levitt""]",148,8.8
+The Dark Knight,Action,2008,"[""Christopher Nolan""]","[""Christian Bale"", ""Heath Ledger""]",152,9
+Interstellar,Sci-Fi,2014,"[""Christopher Nolan""]","[""Matthew McConaughey"", ""Anne Hathaway""]",169,8.6
+The Big Short,Comedy,2015,"[""Adam McKay""]","[""Christian Bale"", ""Steve Carell""]",130,7.8
+The Revenant,Adventure,2015,"[""Alejandro G. Inarittu""]","[""Leonardo DiCaprio"", ""Tom Hardy""]",156,8
+Ex Machina,Sci-Fi,2014,"[""Alex Garland""]","[""Alicia Vikander"", ""Domhnall Gleeson""]",108,7.7
+Parasite,Thriller,2019,"[""Bong Joon-ho""]","[""Kang-ho Song"", ""Sun-kyun Lee""]",132,8.6
+A Star Is Born,Romance,2018,"[""Bradley Cooper""]","[""Bradley Cooper"", ""Lady Gaga""]",136,7.6
+Bohemian Rhapsody,Biography,2018,"[""Bryan Singer""]","[""Rami Malek"", ""Lucy Boynton""]",134,7.9
+Zootopia,Animation,2016,"[""Byron Howard""]","[""Ginnifer Goodwin"", ""Jason Bateman""]",108,8
+Frozen,Animation,2013,"[""Chris Buck""]","[""Kristen Bell"", ""Idina Menzel""]",102,7.4
+Dunkirk,War,2017,"[""Christopher Nolan""]","[""Fionn Whitehead"", ""Tom Hardy""]",106,7.9
+The Prestige,Drama,2006,"[""Christopher Nolan""]","[""Christian Bale"", ""Hugh Jackman""]",130,8.5
+Whiplash,Drama,2014,"[""Damien Chazelle""]","[""Miles Teller"", ""J.K. Simmons""]",107,8.5
+La La Land,Romance,2016,"[""Damien Chazelle""]","[""Ryan Gosling"", ""Emma Stone""]",128,8
+Fight Club,Drama,1999,"[""David Fincher""]","[""Brad Pitt"", ""Edward Norton""]",139,8.8
+The Social Network,Biography,2010,"[""David Fincher""]","[""Jesse Eisenberg"", ""Andrew Garfield""]",120,7.7
+Blade Runner 2049,Sci-Fi,2017,"[""Denis Villeneuve""]","[""Ryan Gosling"", ""Harrison Ford""]",164,8
+The Godfather,Crime,1972,"[""Francis Ford Coppola""]","[""Marlon Brando"", ""Al Pacino""]",175,9.2
+The Shawshank Redemption,Drama,1994,"[""Frank Darabont""]","[""Tim Robbins"", ""Morgan Freeman""]",142,9.3
+Mad Max: Fury Road,Action,2015,"[""George Miller""]","[""Tom Hardy"", ""Charlize Theron""]",120,8.1
+The Shape of Water,Fantasy,2017,"[""Guillermo del Toro""]","[""Sally Hawkins"", ""Michael Shannon""]",123,7.3
+Spirited Away,Animation,2001,"[""Hayao Miyazaki""]","[""Rumi Hiiragi"", ""Miyu Irino""]",125,8.6
+Avatar,Fantasy,2009,"[""James Cameron""]","[""Sam Worthington"", ""Zoe Saldana""]",162,7.8
+Titanic,Romance,1997,"[""James Cameron""]","[""Leonardo DiCaprio"", ""Kate Winslet""]",195,7.9
+The Conjuring,Horror,2013,"[""James Wan""]","[""Vera Farmiga"", ""Patrick Wilson""]",112,7.5
+The Babadook,Horror,2014,"[""Jennifer Kent""]","[""Essie Davis"", ""Noah Wiseman""]",94,6.8
+Us,Horror,2019,"[""Jordan Peele""]","[""Lupita Nyong""o"", ""Winston Duke""]",116,6.8
+Get Out,Thriller,2017,"[""Jordan Peele""]","[""Daniel Kaluuya"", ""Allison Williams""]",104,7.7
+The Avengers,Action,2012,"[""Joss Whedon""]","[""Robert Downey Jr."", ""Chris Evans""]",143,8
+The Matrix,Sci-Fi,1999,"[""Lana Wachowski""]","[""Keanu Reeves"", ""Laurence Fishburne""]",136,8.7
+Coco,Animation,2017,"[""Lee Unkrich""]","[""Anthony Gonzalez"", ""Gael Garci­a Bernal""]",105,8.4
+The Irishman,Crime,2019,"[""Martin Scorsese""]","[""Robert De Niro"", ""Al Pacino""]",209,7.9
+Inside Out,Animation,2015,"[""Pete Docter""]","[""Amy Poehler"", ""Bill Hader""]",95,8.1
+The Lord of the Rings: The Return of the King,Fantasy,2003,"[""Peter Jackson""]","[""Elijah Wood"", ""Ian McKellen""]",201,8.9
+Pulp Fiction,Crime,1994,"[""Quentin Tarantino""]","[""John Travolta"", ""Samuel L. Jackson""]",154,8.9
+Inglourious Basterds,War,2009,"[""Quentin Tarantino""]","[""Brad Pitt"", ""Diane Kruger""]",153,8.3
+The Hateful Eight,Western,2015,"[""Quentin Tarantino""]","[""Samuel L. Jackson"", ""Kurt Russell""]",168,7.8
+Gladiator,Action,2000,"[""Ridley Scott""]","[""Russell Crowe"", ""Joaquin Phoenix""]",155,8.5
+The Martian,Sci-Fi,2015,"[""Ridley Scott""]","[""Matt Damon"", ""Jessica Chastain""]",144,8
+The Lighthouse,Horror,2019,"[""Robert Eggers""]","[""Robert Pattinson"", ""Willem Dafoe""]",109,7.5
+The Witch,Horror,2015,"[""Robert Eggers""]","[""Anya Taylor-Joy"", ""Ralph Ineson""]",92,6.9
+Forrest Gump,Drama,1994,"[""Robert Zemeckis""]","[""Tom Hanks"", ""Robin Wright""]",142,8.8
+The Lion King,Animation,1994,"[""Roger Allers""]","[""Matthew Broderick"", ""Jeremy Irons""]",88,8.5
+Moana,Animation,2016,"[""Ron Clements""]","[""Auli""i Cravalho"", ""Dwayne Johnson""]",107,7.6
+Black Panther,Action,2018,"[""Ryan Coogler""]","[""Chadwick Boseman"", ""Michael B. Jordan""]",134,7.3
+1917,War,2019,"[""Sam Mendes""]","[""George MacKay"", ""Dean-Charles Chapman""]",119,8.3
+Her,Sci-Fi,2013,"[""Spike Jonze""]","[""Joaquin Phoenix"", ""Scarlett Johansson""]",126,8
+Joker,Crime,2019,"[""Todd Phillips""]","[""Joaquin Phoenix"", ""Robert De Niro""]",122,8.4
+The Grand Budapest Hotel,Comedy,2014,"[""Wes Anderson""]","[""Ralph Fiennes"", ""Tony Revolori""]",99,8.1

@@ -1,0 +1,51 @@
+first_name,last_name,customer_email,phone,address,dob
+John,Smith,user1@example.com,123-456-7890,"[{""street"": ""123 Main Street"", ""city"": ""Toronto"", ""province"": ""ON"", ""postalCode"": ""M4B1B3""}]",1985-03-15
+Jane,Doe,user2@example.com,234-567-8901,"[{""street"": ""456 Elm Street"", ""city"": ""Winnipeg"", ""province"": ""MB"", ""postalCode"": ""R3C0A1""}]",1992-08-27
+Emily,Johnson,user3@example.com,345-678-9012,"[{""street"": ""789 Oak Avenue"", ""city"": ""Ottawa"", ""province"": ""ON"", ""postalCode"": ""K1A0A1""}]",1978-01-11
+Michael,Brown,user4@example.com,456-789-0123,"[{""street"": ""321 Pine Road"", ""city"": ""Edmonton"", ""province"": ""AB"", ""postalCode"": ""T5A0A1""}]",1988-07-22
+Chris,Garcia,user5@example.com,567-890-1234,"[{""street"": ""654 Cedar Lane"", ""city"": ""Quebec City"", ""province"": ""QC"", ""postalCode"": ""G1A0A1""}]",1999-04-18
+Anna,Martinez,user6@example.com,678-901-2345,"[{""street"": ""987 Maple Court"", ""city"": ""St. John's"", ""province"": ""NL"", ""postalCode"": ""A1A0A1""}]",1975-12-30
+David,Miller,user7@example.com,789-012-3456,"[{""street"": ""111 Birch Circle"", ""city"": ""Victoria"", ""province"": ""BC"", ""postalCode"": ""V8W1A1""}]",1990-06-09
+Sarah,Davis,user8@example.com,890-123-4567,"[{""street"": ""222 Spruce Boulevard"", ""city"": ""Fredericton"", ""province"": ""NB"", ""postalCode"": ""E3B0A1""}]",1982-09-04
+Robert,Clark,user9@example.com,901-234-5678,"[{""street"": ""333 Chestnut Street"", ""city"": ""Winnipeg"", ""province"": ""MB"", ""postalCode"": ""R2C0D1""}]",2000-03-25
+Sophia,Smith,user10@example.com,012-345-6789,"[{""street"": ""444 Willow Lane"", ""city"": ""Toronto"", ""province"": ""ON"", ""postalCode"": ""M4B1D3""}]",1976-10-17
+Michael,Johnson,user11@example.com,111-222-3333,"[{""street"": ""555 Maple Street"", ""city"": ""Charlottetown"", ""province"": ""PE"", ""postalCode"": ""C1A0A1""}]",1993-11-02
+Laura,Williams,user12@example.com,222-333-4444,"[{""street"": ""666 Pine Avenue"", ""city"": ""Whitehorse"", ""province"": ""YT"", ""postalCode"": ""Y1A0A1""}]",1987-07-14
+James,Jones,user13@example.com,333-444-5555,"[{""street"": ""777 Oak Circle"", ""city"": ""Halifax"", ""province"": ""NS"", ""postalCode"": ""B3H0A1""}]",1995-03-09
+Linda,Brown,user14@example.com,444-555-6666,"[{""street"": ""888 Birch Road"", ""city"": ""Ottawa"", ""province"": ""ON"", ""postalCode"": ""K1A0A1""}]",1983-10-29
+Kevin,Martinez,user15@example.com,555-666-7777,"[{""street"": ""999 Cedar Lane"", ""city"": ""Winnipeg"", ""province"": ""MB"", ""postalCode"": ""R3C0A1""}]",1974-12-18
+Diana,Davis,user16@example.com,666-777-8888,"[{""street"": ""101 Maple Drive"", ""city"": ""Edmonton"", ""province"": ""AB"", ""postalCode"": ""T5A0A1""}]",1991-04-03
+Chris,Clark,user17@example.com,777-888-9999,"[{""street"": ""202 Pine Avenue"", ""city"": ""Victoria"", ""province"": ""BC"", ""postalCode"": ""V8W1A1""}]",1986-08-22
+Megan,Miller,user18@example.com,888-999-1111,"[{""street"": ""303 Oak Boulevard"", ""city"": ""Toronto"", ""province"": ""ON"", ""postalCode"": ""M5B1B3""}]",1979-02-14
+Adam,Jones,user19@example.com,999-111-2222,"[{""street"": ""404 Birch Street"", ""city"": ""Fredericton"", ""province"": ""NB"", ""postalCode"": ""E3B0A1""}]",1997-09-01
+Olivia,Smith,user20@example.com,111-333-2222,"[{""street"": ""505 Cedar Circle"", ""city"": ""Ottawa"", ""province"": ""ON"", ""postalCode"": ""K1A0A1""}]",1984-11-16
+Ryan,Garcia,user21@example.com,222-444-3333,"[{""street"": ""606 Maple Boulevard"", ""city"": ""Edmonton"", ""province"": ""AB"", ""postalCode"": ""T5A0A1""}]",1981-06-07
+Emma,Davis,user22@example.com,333-555-4444,"[{""street"": ""707 Pine Court"", ""city"": ""Victoria"", ""province"": ""BC"", ""postalCode"": ""V8W1A1""}]",2001-12-25
+Jason,Williams,user23@example.com,444-666-5555,"[{""street"": ""808 Oak Road"", ""city"": ""Quebec City"", ""province"": ""QC"", ""postalCode"": ""G1A0A1""}]",1973-05-20
+Sophia,Johnson,user24@example.com,555-777-6666,"[{""street"": ""909 Birch Lane"", ""city"": ""Calgary"", ""province"": ""AB"", ""postalCode"": ""T2A0C1""}]",1990-08-13
+Jacob,Martinez,user25@example.com,666-888-7777,"[{""street"": ""101 Spruce Boulevard"", ""city"": ""Vancouver"", ""province"": ""BC"", ""postalCode"": ""V5K0A1""}]",1977-03-17
+Mia,Smith,user26@example.com,777-999-8888,"[{""street"": ""202 Willow Street"", ""city"": ""Quebec City"", ""province"": ""QC"", ""postalCode"": ""G1A0A1""}]",1998-07-19
+Lucas,Clark,user27@example.com,888-111-9999,"[{""street"": ""303 Elm Court"", ""city"": ""Quebec City"", ""province"": ""QC"", ""postalCode"": ""G5A0Z1""}]",1989-02-11
+Ella,Brown,user28@example.com,999-222-1111,"[{""street"": ""404 Cedar Road"", ""city"": ""Charlottetown"", ""province"": ""PE"", ""postalCode"": ""C1A0A1""}]",1980-10-24
+Ethan,Garcia,user29@example.com,111-444-2222,"[{""street"": ""505 Oak Avenue"", ""city"": ""Winnipeg"", ""province"": ""MB"", ""postalCode"": ""R3C0A1""}]",1972-11-09
+Ava,Miller,user30@example.com,222-555-3333,"[{""street"": ""606 Maple Circle"", ""city"": ""St. John's"", ""province"": ""NL"", ""postalCode"": ""A1A0A1""}]",1994-09-29
+Liam,Johnson,user31@example.com,333-666-4444,"[{""street"": ""707 Pine Boulevard"", ""city"": ""Regina"", ""province"": ""SK"", ""postalCode"": ""S4P0A1""}]",1986-12-07
+Isabella,Davis,user32@example.com,444-777-5555,"[{""street"": ""808 Birch Court"", ""city"": ""Halifax"", ""province"": ""NS"", ""postalCode"": ""B3H0A1""}]",1999-06-18
+Noah,Jones,user33@example.com,555-888-6666,"[{""street"": ""909 Cedar Lane"", ""city"": ""Regina"", ""province"": ""SK"", ""postalCode"": ""S8P0Z1""}]",1978-01-31
+Harper,Smith,user34@example.com,666-999-7777,"[{""street"": ""101 Maple Avenue"", ""city"": ""Toronto"", ""province"": ""ON"", ""postalCode"": ""M8B1B2""}]",1982-05-15
+Logan,Garcia,user35@example.com,777-111-8888,"[{""street"": ""202 Pine Drive"", ""city"": ""Fredericton"", ""province"": ""NB"", ""postalCode"": ""E3B0A1""}]",1995-11-12
+Amelia,Williams,user36@example.com,888-222-9999,"[{""street"": ""303 Oak Street"", ""city"": ""Ottawa"", ""province"": ""ON"", ""postalCode"": ""K1A0A1""}]",1979-04-26
+Lucas,Martinez,user37@example.com,999-333-1111,"[{""street"": ""404 Spruce Circle"", ""city"": ""Whitehorse"", ""province"": ""YT"", ""postalCode"": ""Y1A0A1""}]",2003-10-03
+Charlotte,Clark,user38@example.com,111-555-2222,"[{""street"": ""505 Cedar Boulevard"", ""city"": ""Winnipeg"", ""province"": ""MB"", ""postalCode"": ""R3C0A1""}]",1987-02-09
+Jack,Brown,user39@example.com,222-666-3333,"[{""street"": ""606 Oak Road"", ""city"": ""Calgary"", ""province"": ""AB"", ""postalCode"": ""T2A0C1""}]",1996-08-14
+Abigail,Miller,user40@example.com,333-777-4444,"[{""street"": ""707 Maple Lane"", ""city"": ""Whitehorse"", ""province"": ""YT"", ""postalCode"": ""Y1A0A1""}]",1983-09-22
+Benjamin,Davis,user41@example.com,444-888-5555,"[{""street"": ""808 Pine Circle"", ""city"": ""Fredericton"", ""province"": ""NB"", ""postalCode"": ""E3B0A1""}]",1971-06-06
+Evelyn,Smith,user42@example.com,555-999-6666,"[{""street"": ""909 Birch Boulevard"", ""city"": ""Montreal"", ""province"": ""QC"", ""postalCode"": ""H1A0A1""}]",1992-01-27
+Henry,Garcia,user43@example.com,666-111-7777,"[{""street"": ""101 Willow Court"", ""city"": ""St. John's"", ""province"": ""NL"", ""postalCode"": ""A1A0A1""}]",1985-11-03
+Sofia,Martinez,user44@example.com,777-222-8888,"[{""street"": ""202 Elm Road"", ""city"": ""Regina"", ""province"": ""SK"", ""postalCode"": ""S4P0A1""}]",1976-07-29
+Daniel,Clark,user45@example.com,888-333-9999,"[{""street"": ""303 Maple Lane"", ""city"": ""Ottawa"", ""province"": ""ON"", ""postalCode"": ""K1A0A1""}]",1989-09-05
+Victoria,Brown,user46@example.com,999-444-1111,"[{""street"": ""404 Pine Avenue"", ""city"": ""Toronto"", ""province"": ""ON"", ""postalCode"": ""M1B1Z3""}]",1994-12-30
+Owen,Garcia,user47@example.com,111-666-2222,"[{""street"": ""505 Oak Boulevard"", ""city"": ""Halifax"", ""province"": ""NS"", ""postalCode"": ""B3H0A1""}]",1988-10-20
+Hannah,Williams,user48@example.com,222-777-3333,"[{""street"": ""606 Spruce Circle"", ""city"": ""Montreal"", ""province"": ""QC"", ""postalCode"": ""H1A0A1""}]",2000-08-18
+Matthew,Smith,user49@example.com,333-888-4444,"[{""street"": ""707 Cedar Road"", ""city"": ""Calgary"", ""province"": ""AB"", ""postalCode"": ""T2A0C1""}]",1981-03-01
+Grace,Miller,user50@example.com,444-999-5555,"[{""street"": ""808 Maple Drive"", ""city"": ""Vancouver"", ""province"": ""BC"", ""postalCode"": ""V5K0A1""}]",1974-05-21

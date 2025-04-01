@@ -1,0 +1,51 @@
+rental_date,return_date,movie_title,customer_email,rental_fee
+2024-02-15,2024-03-01,Interstellar,user78@example.com,6.99
+2024-02-20,2024-03-10,The Matrix,user45@example.com,7.49
+2024-03-05,2024-03-20,The Grand Budapest Hotel,user67@example.com,8.39
+2024-03-12,2024-03-27,Fight Club,user89@example.com,5.99
+2024-03-18,2024-04-02,The Shawshank Redemption,user23@example.com,7.49
+2024-03-25,2024-04-10,Gladiator,user56@example.com,8.19
+2024-04-01,2024-04-20,The Social Network,user34@example.com,6.89
+2024-04-08,2024-04-25,Pulp Fiction,user12@example.com,5.49
+2024-04-15,2024-05-01,The Dark Knight,user67@example.com,7.79
+2024-04-20,2024-05-05,Parasite,user78@example.com,6.99
+2024-04-25,2024-05-15,Avatar,user89@example.com,8.19
+2024-05-01,2024-05-20,Inception,user23@example.com,4.99
+2024-05-10,2024-05-30,Titanic,user45@example.com,5.79
+2024-05-15,2024-06-05,The Lion King,user67@example.com,8.99
+2024-05-20,2024-06-10,Black Panther,user12@example.com,6.49
+2024-05-25,2024-06-15,Mad Max: Fury Road,user78@example.com,7.49
+2024-06-01,2024-06-25,The Irishman,user89@example.com,4.79
+2024-06-05,2024-07-01,Blade Runner 2049,user56@example.com,6.79
+2024-06-10,2024-07-05,Whiplash,user34@example.com,5.99
+2024-06-15,2024-07-10,The Revenant,user23@example.com,8.99
+2024-06-20,2024-07-15,La La Land,user45@example.com,7.89
+2024-06-25,2024-07-20,The Big Short,user67@example.com,4.99
+2024-07-01,2024-07-25,Inside Out,user78@example.com,5.49
+2024-07-05,2024-08-01,Frozen,user89@example.com,8.19
+2024-07-10,2024-08-05,Zootopia,user12@example.com,7.49
+2024-07-15,2024-08-10,Moana,user34@example.com,6.49
+2024-07-20,2024-08-15,The Shape of Water,user56@example.com,7.99
+2024-07-25,2024-08-20,The Martian,user23@example.com,4.79
+2024-08-01,2024-08-25,Dunkirk,user45@example.com,6.49
+2024-08-05,2024-09-01,1917,user67@example.com,5.79
+2024-08-10,2024-09-05,A Star Is Born,user78@example.com,8.99
+2024-08-15,2024-09-10,Bohemian Rhapsody,user89@example.com,7.99
+2024-08-20,2024-09-15,The Lighthouse,user23@example.com,6.79
+2024-08-25,2024-09-20,Us,user12@example.com,5.99
+2024-09-01,2024-09-25,Her,user34@example.com,7.49
+2024-09-05,2024-09-30,Ex Machina,user56@example.com,8.39
+2024-09-10,2024-10-05,The Witch,user78@example.com,4.99
+2024-09-15,2024-10-10,The Babadook,user45@example.com,6.99
+2024-09-20,2024-10-15,The Conjuring,user67@example.com,8.49
+2024-09-25,2024-10-20,Get Out,user89@example.com,7.49
+2024-10-01,2024-10-25,The Shawshank Redemption,user23@example.com,6.99
+2024-10-05,2024-10-30,Fight Club,user12@example.com,5.79
+2024-12-10,2024-12-25,The Godfather,user34@example.com,7.89
+2024-10-15,2024-11-10,Pulp Fiction,user56@example.com,4.89
+2024-12-20,2024-12-31,Gladiator,user78@example.com,6.79
+2024-11-05,2024-11-20,The Social Network,user89@example.com,7.99
+2024-06-03,2024-06-20,Pulp Fiction,user12@example.com,5.99
+2024-07-08,2024-07-22,The Shawshank Redemption,user67@example.com,8.49
+2024-08-01,2024-08-15,Fight Club,user78@example.com,6.99
+2024-08-14,2024-08-30,The Godfather,user89@example.com,7.39
